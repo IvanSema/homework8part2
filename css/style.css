@@ -80,9 +80,10 @@ h1, h2 {
 }
 
 .text-block .highertext{
+    display:inline-block;
     font-size: 24px;
     font-style: italic;
-    margin: -4px 0 0 0;
+    margin: 21px 0 0 0;
 }
 
 .wrapper .discover{
